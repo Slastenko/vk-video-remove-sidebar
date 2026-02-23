@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         VK Video - Remove Sidebar
-// @namespace    http://tampermonkey.net/
+// @namespace    Slastenko
 // @version      1.1
 // @description  Убирает правый столбец с плейлистами для расширения видео на vkvideo.ru и vk.com
-// @author       Ваше Имя / Никнейм
+// @author       Slastenko
 // @match        *://vkvideo.ru/*
 // @match        *://*.vkvideo.ru/*
 // @match        *://vk.com/*
